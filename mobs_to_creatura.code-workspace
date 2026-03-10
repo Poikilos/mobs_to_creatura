@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"addegg",
+			"colbox",
+			"collisionbox",
+			"craftitem",
+			"creatura",
+			"dogshoot",
+			"drawtype",
+			"dtime",
+			"formspec",
+			"globalstep",
+			"Gustafson",
+			"Hierosoft",
+			"hitbox",
+			"invimg",
+			"itemstack",
+			"lifetimer",
+			"luaentity",
+			"mapgen",
+			"minetest",
+			"modpath",
+			"nametag",
+			"nodename",
+			"npcs",
+			"pathfinding",
+			"PilzAdam",
+			"Poikilos",
+			"ppos",
+			"privs",
+			"pushable",
+			"sdef",
+			"selbox",
+			"selectionbox",
+			"stackable",
+			"staticdata",
+			"stepheight",
+			"timeofday"
+		]
+	}
+}
